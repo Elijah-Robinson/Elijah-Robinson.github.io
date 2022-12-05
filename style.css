@@ -1,0 +1,33 @@
+body {
+    background-color: darkslategrey;
+}
+
+h1 {
+    color: bisque;
+}
+
+#myDiv {
+    background-color: darkgray;
+    border-style: solid;
+    border-color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#info3 {
+    background-color: lightslategray;
+}
+
+#links {
+    background-color: lightslategray;
+    border-style: solid;
+    border-color: black;
+}
+
+#photo {
+    size: 5in;
+}
+
+table {
+    border-style: solid;
+    border-color: black;
+}
